@@ -4944,18 +4944,6 @@
 		)
 		(uuid "e4758ca4-d42f-4230-acb8-407ef2b4c49f")
 	)
-	(text "TODO:\nMake it such that when \nheadphones are plugged in,\nthe speaker is not active"
-		(exclude_from_sim no)
-		(at 270.764 135.128 0)
-		(effects
-			(font
-				(size 3 3)
-				(thickness 0.24)
-				(bold yes)
-			)
-		)
-		(uuid "eb5907bc-0328-4944-8096-c5082140cd19")
-	)
 	(text "Tone Control"
 		(exclude_from_sim no)
 		(at 182.626 20.066 0)
